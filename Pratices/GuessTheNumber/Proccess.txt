@@ -1,0 +1,13 @@
+# Based on the instruction, we can find out some key points:
+    1. Input: User to insert value.
+    2. Random: system generates a random number.
+    3. Datatype float: Since system generates a random number with 2 decimal points,we have to control the type.
+    4. If-Else statement: Different input will generate different results.
+    5. Exit: Program/Game will be terminated after we can see the results.
+
+# Things to note:
+    - Do we need to return any error message ?
+    - What happens if user key-ed in a random value that is not number ?
+
+
+

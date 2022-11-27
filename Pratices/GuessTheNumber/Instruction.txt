@@ -1,0 +1,13 @@
+# GUESS THE NUMBER
+
+Purpose:
+- This is program is to let the user key in a number, and compares the answer with the generated random number by the system.
+
+Things to note:
+- User can key in numbers with or without Decimal point. (Exp: 1, 1.23, 1.2345)
+- System generates a random number with 2 decimal point only. (Exp:  1.23, 4.56)
+- System will return different messages based on the user inserted a correct or incorrect number
+- Messages:
+    Correct = "You are correct !"
+    Incorrect = "You are wrong !"
+- After that, the program ends
